@@ -1,0 +1,2 @@
+java -jar GoEuroTest.jar "Madrid"
+path : D:\Random NetBeans Projects\GoEuroTest\store
